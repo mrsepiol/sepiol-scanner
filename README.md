@@ -3,7 +3,7 @@
 #### By R3D#@0R_2H1N A.K.A Tuhinshubhra
 All in one tool for **Information Gathering** and **Vulnerability Scanning**
 
-![telegram](https://telegram.org/sepiolteam "Screenshot")
+![telegram](https://i.ibb.co/N3KR6NP/photo-2018-12-16-09-18-38.jpg"Screenshot")
 
 # Scans That You Can Perform Using RED HAWK :
 + Basic Scan
